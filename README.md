@@ -29,8 +29,8 @@ expanding her knowledge in the tech industry."
 
 
 ### 📫 How to reach me: ...
-- <a href="Facebook">https://www.facebook.com/lynarvi</a>
-- <a href="Instagram">https://www.instagram.com/_dev.lyncoln/</a>
-- <a href="LinkedIn">https://www.linkedin.com/in/arvilyn-mellizas-146572116/</a>
-- <a href="Unsplash">https://unsplash.com/@devlyncodeln</a>
+- <a href="https://www.facebook.com/lynarvi">Facebook</a>
+- <a href="https://www.instagram.com/_dev.lyncoln/">Instagram</a>
+- <a href="https://www.linkedin.com/in/arvilyn-mellizas-146572116/">LinkedIn</a>
+- <a href="https://unsplash.com/@devlyncodeln">Unsplash</a>
 
