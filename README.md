@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm well pleased that you are here. 
+I'm well pleased that you are here 😊
 
 I am Arvilyn M. Mellizas, a student from Iloilo Science and Technology University.
 
