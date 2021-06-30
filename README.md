@@ -19,6 +19,7 @@ expanding her knowledge in the tech industry."
 
 
 ### :wink: Industry Knowledges:
+- Data Analytics
 - UI/UX
 - Product Design
 - Interaction Design
