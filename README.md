@@ -30,7 +30,7 @@ expanding her knowledge in the tech industry."
 
 
 ### 📫 How to reach me: 
-- <a href="allyn.mellizas@gmail.com">Email</a>
+- Email: allyn.mellizas@gmail.com
 - <a href="https://www.facebook.com/lynarvi">Facebook</a>
 - <a href="https://www.instagram.com/_dev.lyncoln/">Instagram</a>
 - <a href="https://www.linkedin.com/in/arvilyn-mellizas-146572116/">LinkedIn</a>
